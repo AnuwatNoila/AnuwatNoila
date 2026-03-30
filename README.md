@@ -5,12 +5,6 @@ Odoo Developer | Backend & DevOps Engineer
 ------------------------------------------
 
 I’m a developer specializing in Odoo ERP customization, backend development, and infrastructure setup. I work with Python, PostgreSQL, Docker, Nginx, and Linux servers to build, deploy, and maintain business systems. My main focus is creating reliable ERP solutions, improving workflows, and supporting production environments.
-
-* 🌍  I'm based in Bangkok, Thailand
-* 🖥️  See my portfolio at [My GitHub Projects](http://github.com/AnuwatNoila)
-* ✉️  You can contact me at [anuwat\_noila@outlook.co.th](mailto:anuwat_noila@outlook.co.th)
-* 🧠  I'm currently learning Kubernetes, CI/CD, and Advanced System Architecture
-
 ## Skills
 
 <table>
