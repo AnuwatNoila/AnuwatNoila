@@ -116,26 +116,6 @@ fun_fact: "I debug faster with coffee in hand ☕"
 
 ---
 
-<!-- ====================== GITHUB STATS ====================== -->
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> GitHub Statistics
-
-<div align="center">
-
-<a href="https://github.com/AnuwatNoila">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnuwatNoila&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="github stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnuwatNoila&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="top languages"/>
-</a>
-
-<br/><br/>
-
-<a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnuwatNoila&theme=tokyonight&hide_border=true&background=1A1B27" alt="streak stats"/>
-</a>
-
-</div>
-
----
-
 <!-- ====================== TROPHIES ====================== -->
 ## <img src="https://media.giphy.com/media/CaS9NNso512WJ4po0t/giphy.gif" width="28"> Profile Summary
 
