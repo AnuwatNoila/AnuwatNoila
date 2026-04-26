@@ -140,13 +140,13 @@ fun_fact: "I debug faster with coffee in hand ☕"
 ## <img src="https://media.giphy.com/media/CaS9NNso512WJ4po0t/giphy.gif" width="28"> Profile Summary
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AnuwatNoila/AnuwatNoila/main/profile-summary-card-output/tokyo-night/0-profile-details.svg" alt="profile-details" width="98%"/>
+  <img src="https://raw.githubusercontent.com/AnuwatNoila/AnuwatNoila/main/profile-summary-card-output/aura/0-profile-details.svg" alt="profile-details" width="98%"/>
   <br/>
-  <img src="https://raw.githubusercontent.com/AnuwatNoila/AnuwatNoila/main/profile-summary-card-output/tokyo-night/1-repos-per-language.svg" alt="repos-per-language" width="48%"/>
-  <img src="https://raw.githubusercontent.com/AnuwatNoila/AnuwatNoila/main/profile-summary-card-output/tokyo-night/2-most-commit-language.svg" alt="most-commit-language" width="48%"/>
+  <img src="https://raw.githubusercontent.com/AnuwatNoila/AnuwatNoila/main/profile-summary-card-output/aura/1-repos-per-language.svg" alt="repos-per-language" width="48%"/>
+  <img src="https://raw.githubusercontent.com/AnuwatNoila/AnuwatNoila/main/profile-summary-card-output/aura/2-most-commit-language.svg" alt="most-commit-language" width="48%"/>
   <br/>
-  <img src="https://raw.githubusercontent.com/AnuwatNoila/AnuwatNoila/main/profile-summary-card-output/tokyo-night/3-stats.svg" alt="stats" width="48%"/>
-  <img src="https://raw.githubusercontent.com/AnuwatNoila/AnuwatNoila/main/profile-summary-card-output/tokyo-night/4-productive-time.svg" alt="productive-time" width="48%"/>
+  <img src="https://raw.githubusercontent.com/AnuwatNoila/AnuwatNoila/main/profile-summary-card-output/aura/3-stats.svg" alt="stats" width="48%"/>
+  <img src="https://raw.githubusercontent.com/AnuwatNoila/AnuwatNoila/main/profile-summary-card-output/aura/4-productive-time.svg" alt="productive-time" width="48%"/>
 </div>
 
 ---
