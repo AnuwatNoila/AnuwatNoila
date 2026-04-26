@@ -47,59 +47,87 @@ fun_fact: "I debug faster with coffee in hand ☕"
 
 ---
 
+
 <!-- ====================== TECH STACK ====================== -->
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Tech Stack
 <div align="center">
 <table>
   <tr>
-    <td align="center" width="120"><b>Languages</b></td>
+    <td align="center" width="160"><b>Languages</b></td>
     <td align="center">
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,js,ts,bash&theme=dark" /></a>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="python" title="Python" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="js" title="JavaScript" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="ts" title="TypeScript" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" height="48" alt="bash" title="Bash" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" width="48" height="48" alt="xml" title="XML" />
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Odoo / ERP</b></td>
+    <td align="center"><b>ERP / Database</b></td>
     <td align="center">
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" /></a>
-      <img src="https://img.shields.io/badge/-Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white&logoWidth=20" height="48" />
-      <img src="https://img.shields.io/badge/-OWL-7C3AED?style=for-the-badge&logoColor=white" height="48" />
-      <img src="https://img.shields.io/badge/-QWeb-2C3E50?style=for-the-badge&logoColor=white" height="48" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="postgresql" title="PostgreSQL" />&nbsp;
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Odoo_Logo.svg" width="48" height="48" alt="odoo" title="Odoo (with OWL & QWeb)" />
+      <br/>
+      <sub><i>Odoo · OWL · QWeb · PostgreSQL</i></sub>
     </td>
   </tr>
   <tr>
     <td align="center"><b>Frontend</b></td>
     <td align="center">
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css&theme=dark" /></a>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="react" title="React" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="nextjs" title="Next.js" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="tailwind" title="TailwindCSS" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="html" title="HTML5" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="css" title="CSS3" />
     </td>
   </tr>
   <tr>
     <td align="center"><b>Backend</b></td>
     <td align="center">
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,fastapi,django,flask&theme=dark" /></a>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="nodejs" title="Node.js" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="fastapi" title="FastAPI" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="48" height="48" alt="django" title="Django" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="48" height="48" alt="flask" title="Flask" />
     </td>
   </tr>
   <tr>
     <td align="center"><b>Data & AI</b></td>
     <td align="center">
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pytorch,sklearn,openai&theme=dark" /></a>
-      <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="48" />
-      <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=for-the-badge&logoColor=white" height="48" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="pandas" title="Pandas" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="numpy" title="NumPy" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="sklearn" title="scikit-learn" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="pytorch" title="PyTorch" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48" height="48" alt="opencv" title="OpenCV" />
+      <br/>
+      <sub><i>+ LangChain · OpenAI API</i></sub>
     </td>
   </tr>
   <tr>
     <td align="center"><b>DevOps & Cloud</b></td>
     <td align="center">
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,githubactions,aws,gcp,linux&theme=dark" /></a>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="docker" title="Docker" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48" height="48" alt="kubernetes" title="Kubernetes" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="48" height="48" alt="nginx" title="Nginx" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="48" height="48" alt="githubactions" title="GitHub Actions" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="aws" title="AWS" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="gcp" title="Google Cloud" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="linux" title="Linux" />
     </td>
   </tr>
   <tr>
     <td align="center"><b>Tools</b></td>
     <td align="center">
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,postman,notion&theme=dark" /></a>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="git" title="Git" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="github" title="GitHub" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="vscode" title="VS Code" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="48" height="48" alt="pycharm" title="PyCharm" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48" height="48" alt="postman" title="Postman" />
     </td>
   </tr>
 </table>
 </div>
+
+---
 
 
 
